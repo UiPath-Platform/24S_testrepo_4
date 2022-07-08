@@ -1,0 +1,2 @@
+some text
+version 1
